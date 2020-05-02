@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: c87ad2d4f78e2c84293bf7e08478dc6b
-timeCreated: 1431347402
+guid: 282ee397f4a5bd8458d1ac4bbaaf2d3a
+timeCreated: 1435251112
 licenseType: Store
 ModelImporter:
   serializedVersion: 18
@@ -13,7 +13,7 @@ ModelImporter:
     3300000: stone_3
     4300000: stone_3
   materials:
-    importMaterials: 0
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
   animations:

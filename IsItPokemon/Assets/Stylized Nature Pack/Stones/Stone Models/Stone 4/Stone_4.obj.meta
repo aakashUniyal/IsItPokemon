@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: b3f36b8e13454c84bb8923567755f724
-timeCreated: 1431352631
+guid: 7a33d0df2ece05b48ae7e825bfc3df7e
+timeCreated: 1435251112
 licenseType: Store
 ModelImporter:
   serializedVersion: 18
@@ -13,7 +13,7 @@ ModelImporter:
     3300000: stone_4
     4300000: stone_4
   materials:
-    importMaterials: 0
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
   animations:
@@ -31,7 +31,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 2.29999995
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1

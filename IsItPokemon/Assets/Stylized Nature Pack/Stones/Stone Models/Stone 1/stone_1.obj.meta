@@ -1,17 +1,22 @@
 fileFormatVersion: 2
-guid: 5c22198f5405e054c8cd843840f65422
-timeCreated: 1431346636
+guid: bf1758751d3401c4aad53b4ae29e0187
+timeCreated: 1435158343
 licenseType: Store
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
-    100000: stone_1
+    100000: default
     100002: //RootNode
-    400000: stone_1
+    100004: stone_1
+    400000: default
     400002: //RootNode
-    2300000: stone_1
-    3300000: stone_1
-    4300000: stone_1
+    400004: stone_1
+    2300000: default
+    2300002: stone_1
+    3300000: default
+    3300002: stone_1
+    4300000: default
+    4300002: stone_1
   materials:
     importMaterials: 0
     materialName: 0
@@ -31,7 +36,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: .699999988
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
